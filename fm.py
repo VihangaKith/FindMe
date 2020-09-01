@@ -1,6 +1,6 @@
 import numpy as np
 import cv2
-
+r = tk.Tk()
 cap = cv2.VideoCapture(0)
 
 while(True):
